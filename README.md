@@ -1,4 +1,4 @@
-# Analytics Portfolio – [Jennifer Levine]
+# Analytics Portfolio – Jennifer Levine
 
 Business Intelligence Analyst with 10+ years of experience in data analytics and executive reporting.
 
