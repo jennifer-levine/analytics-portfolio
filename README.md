@@ -1,6 +1,6 @@
 # Analytics Portfolio – Jennifer Levine
 
-Business Intelligence Analyst with 10+ years of experience in data analytics and executive reporting.
+Business Analyst with MSBA and 10 years of experience in data analytics and executive reporting.
 
 ## Skills
 - Python (data analysis)
