@@ -17,7 +17,7 @@ Business Analyst with MSBA and 10 years of experience in data analytics and exec
 ### 1. Analysis of Financial Messaging to Mitigate Trade Breaks
 **Tools:** Excel, Python, Tableau
 
-**Summary:** Analyzed SWIFT messaging to generate key insights to mitigate the frequency and cost associated with trade breaks
+**Summary:** Analyzed SWIFT messaging through descriptive analytics and ML classification model to mitigate the frequency and cost associated with trade breaks
 
 👉 [View Project](./capstone2026)
 
