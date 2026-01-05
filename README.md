@@ -7,7 +7,6 @@ Business Analyst with MSBA and 10 years of experience in data analytics and exec
 - Tableau (dashboards, KPI tracking)
 - SQL
 - Excel
-- Tableau (dashboards, KPI tracking)
 - machine learning
 - predictive modeling
 - Time-Series analysis
